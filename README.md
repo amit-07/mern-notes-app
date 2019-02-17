@@ -1,0 +1,1 @@
+Simple note maker app using the MERN stack.
