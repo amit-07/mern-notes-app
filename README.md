@@ -1,4 +1,4 @@
-#Simple note maker app using the MERN stack.
+# Simple note maker app using the MERN stack.
 
 To be able to run this app you need NODEJS and MONGODB installed on your system.
 
