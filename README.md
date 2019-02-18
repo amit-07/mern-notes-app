@@ -11,7 +11,7 @@ After Installing MongoDB successfully on your system follow the below mentioned 
 1. In your suitable directory open terminal(MacOS)/cmd(Windows) and enter `mkdir -p /data/db`
 2. In the directory where MongoDB is installed open terminal/cmd and run `mongod` to start running MongoDB
 3. The next step is to create the MongoDB database instance. Therefore we’re connecting to the database server by using the MondoDB client on the command line:  `mongo`
-4. By using the following command we’re creating a new database with the name `notes`: `use notes`
+4. By using the following command we’re creating a new database with the name notes: `use notes`
 
 ## Setting up backend Node Server
 
