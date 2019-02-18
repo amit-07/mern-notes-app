@@ -28,7 +28,7 @@ After Installing MongoDB successfully on your system follow the below mentioned 
 - Then run `npm run-script build` it will create a production build for the application
 - Then to deploy it in static local server you need to install serve `npm i -g serve`
 - Then run `serve -s build`
-- Then open htto://localhost:5000 to run the production build of the application
+- Then open http://localhost:5000 to run the production build of the application
 - Login to the application using the username and password provided above only
 - Then you can add note by clicking on Add Note or Create Note and view it in the Notes section
 - Also you can edit the notes using the edit form.
